@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 581c289bd189ddf428ce3c6c6fa3dda6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 537258390742819132
+    second: PosionMal_0
+  - first:
+      213: 8392686860578990574
+    second: PosionMal_1
+  - first:
+      213: 2140188111237160928
+    second: PosionMal_2
+  - first:
+      213: -7424930019941583331
+    second: PosionMal_3
+  - first:
+      213: 105423503789504520
+    second: PosionMal_4
+  - first:
+      213: 4115152184795343577
+    second: PosionMal_5
+  - first:
+      213: -8587308188521290281
+    second: PosionMal_6
+  - first:
+      213: -7091822916534409241
+    second: PosionMal_7
+  - first:
+      213: -6747664562583522556
+    second: PosionMal_8
+  - first:
+      213: 6686133884197158404
+    second: PosionMal_9
+  - first:
+      213: -1746119534214461027
+    second: PosionMal_10
+  - first:
+      213: 5741216022362804710
+    second: PosionMal_11
+  - first:
+      213: -1791954471579732304
+    second: PosionMal_12
+  - first:
+      213: 871073844157582284
+    second: PosionMal_13
+  - first:
+      213: -1127449799917255961
+    second: PosionMal_14
+  - first:
+      213: -4775671656145116272
+    second: PosionMal_15
+  - first:
+      213: 3294408925694390669
+    second: PosionMal_16
+  - first:
+      213: 607641167685112588
+    second: PosionMal_17
+  - first:
+      213: -6794942492649469098
+    second: PosionMal_18
+  - first:
+      213: 4999311141811392591
+    second: PosionMal_19
+  - first:
+      213: -8703510777507990969
+    second: PosionMal_20
+  - first:
+      213: -8759242725244080900
+    second: PosionMal_21
+  - first:
+      213: -5825163057738713553
+    second: PosionMal_22
+  - first:
+      213: -2864063721168491843
+    second: PosionMal_23
+  - first:
+      213: -8043032899865293099
+    second: PosionMal_24
+  - first:
+      213: -7831099155667167087
+    second: PosionMal_25
+  - first:
+      213: 2927475294119229409
+    second: PosionMal_26
+  - first:
+      213: -2321794172383682606
+    second: PosionMal_27
+  - first:
+      213: -7318263110820440229
+    second: PosionMal_28
+  - first:
+      213: 765468489824059318
+    second: PosionMal_29
+  - first:
+      213: 6542082023487692108
+    second: PosionMal_30
+  - first:
+      213: -8159288483887278908
+    second: PosionMal_31
+  - first:
+      213: -8450848446744288967
+    second: PosionMal_32
+  - first:
+      213: 8599289262386297074
+    second: PosionMal_33
+  - first:
+      213: -6926674281419376542
+    second: PosionMal_34
+  - first:
+      213: 3258998583541305480
+    second: PosionMal_35
+  - first:
+      213: 4057775051687670174
+    second: PosionMal_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PosionMal_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31e2dce8a9b47700800000000000000
+      internalID: 537258390742819132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosionMal_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 196
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee926ebbb30d87470800000000000000
+      internalID: 8392686860578990574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosionMal_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 188
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef1eca7fb973bd10800000000000000
+      internalID: 2140188111237160928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosionMal_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 186
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d167f3f5c7955f890800000000000000
+      internalID: -7424930019941583331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosionMal_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 180
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b95e3e1a867100800000000000000
+      internalID: 105423503789504520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosionMal_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da266beb15fb1930800000000000000
+      internalID: 4115152184795343577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosionMal_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5a26633b0c3d880800000000000000
+      internalID: -8587308188521290281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosionMal_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 39
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7edf9a1a8c49d90800000000000000
+      internalID: -7091822916534409241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosionMal_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 30
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403b7bbb4da7b52a0800000000000000
+      internalID: -6747664562583522556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosionMal_11
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 22
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e157b7dd85ecaf40800000000000000
+      internalID: 5741216022362804710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 59245bdaf85df694ca9fad884bd6d0a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PosionMal_37: -212790134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
